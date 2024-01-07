@@ -4,7 +4,7 @@
 - 📂 idk.
 <h3 align="center">Kontakt:</h3>
 <p align="center">
-  <a href="https://discord.com/channels/@me/1067128088028266497" target="blank"><img src="https://img.shields.io/badge/Neeqz%23-%237289DA.svg?&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/channels/@me/1067128088028266497" target="blank"><img src="https://img.shields.io/badge/Neeqz.%23-%237289DA.svg?&logo=discord&logoColor=white"/></a>
 </p>
 
 
